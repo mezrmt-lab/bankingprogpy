@@ -1,8 +1,8 @@
-Python Banking Program
+## Python Banking Program
 
 A simple Python banking program for practicing core programming concepts through common banking operations. Users can manage an account, check its balance, deposit money, and withdraw funds.
 
-Features
+## Features
 
 - Check an account balance
 - Deposit money
